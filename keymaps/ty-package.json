@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-p": "ty-package:toggle",
+    "esc": "ty-package:toggle"
+  }
+}

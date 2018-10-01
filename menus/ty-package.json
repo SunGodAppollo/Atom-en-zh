@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "翻译选中内容",
+        "command": "ty-package:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "翻译",
+          "submenu": [
+            {
+              "label": "翻译选中内容",
+              "command": "ty-package:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
